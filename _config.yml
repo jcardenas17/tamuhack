@@ -20,7 +20,7 @@ baseurl: "/tamuhack" # the subpath of your site
 url: "https://jarimcardenas.github.io"
 email: jcardenas17@gmail.com
 github_username:  jcardenas17
-linkedin_username: jarimcardenas
+#linkedin_username: jarimcardenas
 twitter_username: JarimC
 
 # Build settings
