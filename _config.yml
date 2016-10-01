@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hack on GitHub Pages
+title: Jarims website
 description: >
-  This site will get you started hacking with GitHub Pages.
+  This is my site.
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://jarimcardenas.github.io"
 email: jarimcardenas@gmail.com
